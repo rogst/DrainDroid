@@ -1,0 +1,45 @@
+/*
+* DrainDroid: Drain your servers from your phone
+* Copyright (C) 2013 Roger Steneteg <roger@steneteg.org>
+* 
+* This program is free software: you can redistribute it and/or modify
+* it under the terms of the GNU General Public License as published by
+* the Free Software Foundation, either version 3 of the License, or
+* (at your option) any later version.
+* 
+* This program is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* GNU General Public License for more details.
+* 
+* You should have received a copy of the GNU General Public License
+* along with this program.  If not, see [http://www.gnu.org/licenses/].
+*/
+p {
+	/*font-size: 1.4em;*/
+	text-transform: none;
+}
+
+html,body {
+	overflow-x:hidden;
+}
+
+/*.ui-btn-active { color: red !important; background: none !important; background-color: green !important;  }*/
+
+li.rs-enabled-1{
+    background:#00ff00 !important;
+}
+li.rs-enabled-0 {
+    background:#ff0000 !important;
+}
+li.rs-enabled-0 a,
+li.rs-enabled-1 a {
+    color:#000000 !important;
+}
+/*h3 .ui-title {
+	font-size: 2.3em;
+}
+.ui-btn-text {
+	font-size: 2em;
+}*/
+

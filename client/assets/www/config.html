@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+DrainDroid: Drain your servers from your phone
+Copyright (C) 2013 Roger Steneteg <roger@steneteg.org>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see [http://www.gnu.org/licenses/].
+-->
+<html>
+    <body>
+		<div id="configPage" data-role="page">
+            <div data-theme="a" data-role="header" data-position="fixed">
+                <h3>Config</h3>
+            </div>
+            <div data-role="content">
+				<form id="configForm">
+					<label for="apiUrlField">DrainDroid API Address:</label>
+					<input id="apiUrlField" type="text" data-clear-btn="true" name="apiUrlField" value="">
+					
+					<a id="configBackButton" data-rel="back" data-role="button" data-transition="none">Done</a>
+					<p id="dev_id"></p>
+				</form>
+				
+            </div>
+            <div data-role="footer" data-id="foo1" data-position="fixed">
+				<div data-role="navbar">
+					<ul>
+						<li><a href="drain.html" data-transition="none" data-icon="bars">Drain</a></li>
+						<li><a href="config.html" class="ui-btn-active ui-state-persist" data-transition="none" data-icon="gear">Config</a></li>
+					</ul>
+				</div><!-- /navbar -->
+			</div><!-- /footer -->
+        </div>
+    </body>
+</html>

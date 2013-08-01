@@ -1,0 +1,23 @@
+/home/roger/code/draindroid/gen/org/steneteg/draindroid/R.java \
+ : /home/roger/code/draindroid/res/xml/config.xml \
+/home/roger/code/draindroid/res/drawable-ldpi/icon.png \
+/home/roger/code/draindroid/res/drawable-ldpi/ic_launcher.png \
+/home/roger/code/draindroid/res/drawable-hdpi/icon.png \
+/home/roger/code/draindroid/res/drawable-hdpi/ic_launcher.png \
+/home/roger/code/draindroid/res/drawable-mdpi/icon.png \
+/home/roger/code/draindroid/res/drawable-mdpi/ic_launcher.png \
+/home/roger/code/draindroid/res/values/strings.xml \
+/home/roger/code/draindroid/res/drawable/icon.png \
+/home/roger/code/draindroid/res/drawable-xhdpi/icon.png \
+/home/roger/code/draindroid/res/drawable-xhdpi/ic_launcher.png \
+/home/roger/code/draindroid/res/layout/main.xml \
+/home/roger/code/draindroid/bin/res/drawable-ldpi/icon.png \
+/home/roger/code/draindroid/bin/res/drawable-ldpi/ic_launcher.png \
+/home/roger/code/draindroid/bin/res/drawable-hdpi/icon.png \
+/home/roger/code/draindroid/bin/res/drawable-hdpi/ic_launcher.png \
+/home/roger/code/draindroid/bin/res/drawable-mdpi/icon.png \
+/home/roger/code/draindroid/bin/res/drawable-mdpi/ic_launcher.png \
+/home/roger/code/draindroid/bin/res/drawable/icon.png \
+/home/roger/code/draindroid/bin/res/drawable-xhdpi/icon.png \
+/home/roger/code/draindroid/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/roger/code/draindroid/bin/AndroidManifest.xml \
